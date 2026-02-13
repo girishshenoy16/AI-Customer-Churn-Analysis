@@ -81,8 +81,8 @@ Streamlit Dashboard
 ai-customer-churn/
 │
 ├── data/
-│   ├── raw/                 # Synthetic raw data
-│   └── processed/           # Cleaned & feature-engineered data (from notebooks)
+│   ├── raw/                 
+│   └── processed/           
 │
 ├── notebooks/
 │   ├── 01_exploratory_data_analysis.ipynb
@@ -98,12 +98,12 @@ ai-customer-churn/
 │   └── predict_and_score.py
 │
 ├── models/
-│   ├── rf_churn_model_jupyter.pkl       # Final model trained in notebooks
+│   ├── rf_churn_model_jupyter.pkl      
 │   ├── lr_churn_model_jupyter.pkl             
 │   └── churn_model.pkl  
 │
 ├── reports/
-│   ├── rf_churn_risk_scored_customers_jupyter.csv       # Final model trained in notebooks
+│   ├── rf_churn_risk_scored_customers_jupyter.csv       
 │   ├── lr_churn_risk_scored_customers_jupyter.csv       
 │   └── churn_risk_scored_customers.csv
 │
@@ -184,7 +184,7 @@ The Streamlit application provides:
 ### Clone repository:
 
 ```
-git clone https://github.com/girishshenoy16/AI-Customer-Churn-Analysis
+git clone https://github.com/girishshenoy16/AI-Customer-Churn-Analysis.git
 cd AI-Customer-Churn
 ```
 ### 1️⃣ Create virtual environment
