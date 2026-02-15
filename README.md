@@ -78,7 +78,7 @@ Streamlit Dashboard
 ## 🗂️ Project Structure
 
 ```
-ai-customer-churn/
+AI-Customer-Churn/
 │
 ├── data/
 │   ├── raw/                 
