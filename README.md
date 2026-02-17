@@ -275,6 +275,8 @@ streamlit run streamlit_app.py
 * A/B testing of retention strategies
 * Integration with CRM systems
 
+---
+
 ## ⭐ Final Note
 
 This project emphasizes **clarity, business value, and execution quality**, reflecting how churn analysis is performed in real organizations rather than as an academic exercise.
